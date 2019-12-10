@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Engineering
+  - course: B.Sc. in Computer Engineering
     institution: University of Tehran
     year: Now
 
