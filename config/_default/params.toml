@@ -91,8 +91,7 @@ phone = "+98 937 392 77 79"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:seyedahmadpourihosseini"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:seyedahmadpourihosseini"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@SAPHosseini"},
   ]
 
