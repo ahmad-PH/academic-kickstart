@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en)  
+I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en) majoring in computer engineering with a focus of software.
 
 (Currently Writing my Bio! So it's not complete yet :))
