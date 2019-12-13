@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.Sc. Student University of Tehran
+role: B.Sc. Student
 
 # Organizations/Affiliations
 organizations:
