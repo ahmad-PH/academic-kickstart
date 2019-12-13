@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.S. Student in Computer Engineering at University of Tehran
+role: B.Sc. Student University of Tehran
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I am a B.S. student at [University of Tehran](https://ut.ac.ir/en)
+I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en)  
 
 (Currently Writing my Bio! So it's not complete yet :))
