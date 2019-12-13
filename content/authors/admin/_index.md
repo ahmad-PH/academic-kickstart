@@ -62,10 +62,9 @@ user_groups:
 - Visitors
 ---
 
-I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en) majoring in computer engineering with a focus on software. Through my years as an undergraduate student, I have become quite interested in artificial intelligence as the subject of my graduate studies. That is why I am currently working on my bachelor's thesis on the subject of [adversarial examples](https://openai.com/blog/adversarial-example-research/) under the supervision of [Dr. Araabi](https://ece.ut.ac.ir/en/~araabi). I am particularly interested in this area of research because adversarial examples are not only serious threats to AI safety, but also systematic flaws that offer an insight into the inner-workings of deep models through the investigation of their causes. My broader research interests include machine learning, deep learning, computer vision, as well as knowledge representation and reasoning. I recently took an internship at [Sensifai](https://sensifai.com/#partners) to familiarize myself with AI in industry.
+I am a B.Sc. student in computer engineering with a focus on software at [University of Tehran](https://ut.ac.ir/en). Through my years as an undergraduate, I have become quite interested in artificial intelligence as the subject of my graduate studies. That is why I am currently working on my bachelor's thesis on the topic of [adversarial examples](https://openai.com/blog/adversarial-example-research/) under the supervision of [Dr. Araabi](https://ece.ut.ac.ir/en/~araabi). I am particularly interested in this area of research because adversarial examples are not only serious threats to AI safety, but also systematic flaws that offer an insight into the inner-workings of deep models through the investigation of their causes. To familiarize myself with AI in industry, I recently took an internship at [Sensifai](https://sensifai.com/#partners).
 
-In addition to artificial intelligence, I also love writing software which is why I took an internship as a back-end developer in the summer of 2017
+Besides artificial intelligence, I also love writing software and I practice it via internships and small projects whenever I find the time to. In my free time, I also like 
 
-Aside from my academic interests, I also love writing software which 
 
 (Currently Writing my Bio! So it's not complete yet :))
