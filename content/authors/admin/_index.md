@@ -64,6 +64,4 @@ user_groups:
 
 I am a B.Sc. student in computer engineering with a focus on software at [University of Tehran](https://ut.ac.ir/en). Through my years as an undergraduate, I have become quite interested in artificial intelligence. That is why I intend to study AI on a graduate level and also why I am currently working on my bachelor's thesis on the topic of [adversarial examples](https://openai.com/blog/adversarial-example-research/) under the supervision of [Dr. Araabi](https://ece.ut.ac.ir/en/~araabi). I am particularly interested in this area of research because adversarial examples are not only serious threats to AI safety, but also systematic flaws that offer an insight into the inner-workings of deep models through the investigation of their causes. To familiarize myself with AI in industry, I recently took an internship at [Sensifai](https://sensifai.com/#partners).
 
-Besides artificial intelligence, I also love writing software and I practice it via internships and small projects whenever I find the time to. In my free time, I like playing video games, playing chess, reading epic fantasies, and occasionally even some philosophy.
-
-(Currently Writing my Bio! So it's not complete yet :))
+Besides artificial intelligence, I also love writing software and I practice it via internships and small projects whenever I find the time to. In my free time, I like playing video games, playing chess, reading epic fantasies, and occasionally even some books on moral philosophy.
