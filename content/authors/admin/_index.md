@@ -18,7 +18,7 @@ organizations:
   url: "https://ut.ac.ir/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, deep learning, computer vision, and KR&R.
 
 interests:
 - Machine Learning
@@ -61,3 +61,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+I am a B.Sc. student at University of Tehran
