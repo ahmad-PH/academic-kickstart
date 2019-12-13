@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en) majoring in computer engineering with a focus on software. I am currently working on my bachelor's thesis on the subject of [adversarial examples](https://openai.com/blog/adversarial-example-research/) under the supervision of [Dr. Araabi](https://ece.ut.ac.ir/en/~araabi). I am particularly interested in this area of research because adversarial examples are not only serious threats to AI safety, but also systematic flaws that offer an insight into the inner-workings of deep models through the investigation of their causes.
+I am a B.Sc. student at [University of Tehran](https://ut.ac.ir/en) majoring in computer engineering with a focus on software. Through my years of study, I have become quite interested in artificial intelligence. That is why I am currently working on my bachelor's thesis on the subject of [adversarial examples](https://openai.com/blog/adversarial-example-research/) under the supervision of [Dr. Araabi](https://ece.ut.ac.ir/en/~araabi). I am particularly interested in this area of research because adversarial examples are not only serious threats to AI safety, but also systematic flaws that offer an insight into the inner-workings of deep models through the investigation of their causes.
 
 (Currently Writing my Bio! So it's not complete yet :))
