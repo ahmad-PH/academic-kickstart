@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.Sc. Student
+role: Computer Engineering Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://ut.ac.ir/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning, computer vision, and KR&R.
+bio: machine learning and software engineering enthusiast!
 
 interests:
 - Machine Learning
@@ -30,7 +30,7 @@ education:
   courses:
   - course: B.Sc. in Computer Engineering
     institution: University of Tehran
-    year: Now
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ahmad.pouri@ut.ac.ir'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:seyedahmadpourihosseini@gmail.com' # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ahmad-pourihosseini/
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "seyedahmadpourihosseini@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
