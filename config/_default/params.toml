@@ -86,13 +86,14 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "seyedahmadpourihosseini@gmail.com"
-phone = "+98 937 392 77 79"
+phone = ""
+# phone = "+98 937 392 77 79"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:seyedahmadpourihosseini"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/SAPHosseini"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:seyedahmadpourihosseini"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/SAPHosseini"},
   ]
 
 ############################
