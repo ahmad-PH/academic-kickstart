@@ -45,6 +45,5 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/machine-learning-projects"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/R2P9F82TNELD"
   date_start = "2020-10-01"
-  date_end = "2020-10-15"
 
 +++
