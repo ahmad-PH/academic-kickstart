@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "c++"
+  icon_pack = "custom"
   name = "C/C++"
   description = "90%"
   
