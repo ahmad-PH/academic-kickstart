@@ -27,4 +27,23 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-07-01"
 
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  url = "https://www.coursera.org/learn/deep-neural-network"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/E27EW575R2F4"
+  date_start = "2020-07-01"
+  date_end = "2020-08-01"
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Structuring Machine Learning Projects"
+  url = "https://www.coursera.org/learn/machine-learning-projects"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/R2P9F82TNELD"
+  date_start = "2020-10-01"
+  date_end = "2020-10-15"
+
 +++
